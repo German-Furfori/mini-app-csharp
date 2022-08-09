@@ -1,0 +1,1 @@
+Esta es una mini app de consola que hice para aprobar la materia de Programación III (POO con C#) de la Tecnicatura Universitaria en Programación.

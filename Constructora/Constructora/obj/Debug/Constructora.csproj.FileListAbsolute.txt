@@ -1,0 +1,21 @@
+C:\Users\Lotargo\Desktop\UTN\TUP\Ciclo Lectivo 2022\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\bin\Debug\Constructora.exe.config
+C:\Users\Lotargo\Desktop\UTN\TUP\Ciclo Lectivo 2022\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\bin\Debug\Constructora.exe
+C:\Users\Lotargo\Desktop\UTN\TUP\Ciclo Lectivo 2022\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\bin\Debug\Constructora.pdb
+C:\Users\Lotargo\Desktop\UTN\TUP\Ciclo Lectivo 2022\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\obj\Debug\Constructora.csprojAssemblyReference.cache
+C:\Users\Lotargo\Desktop\UTN\TUP\Ciclo Lectivo 2022\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\obj\Debug\Constructora.csproj.CoreCompileInputs.cache
+C:\Users\Lotargo\Desktop\UTN\TUP\Ciclo Lectivo 2022\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\obj\Debug\Constructora.exe
+C:\Users\Lotargo\Desktop\UTN\TUP\Ciclo Lectivo 2022\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\obj\Debug\Constructora.pdb
+C:\Users\Lotargo\Desktop\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\bin\Debug\Constructora.exe.config
+C:\Users\Lotargo\Desktop\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\bin\Debug\Constructora.exe
+C:\Users\Lotargo\Desktop\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\bin\Debug\Constructora.pdb
+C:\Users\Lotargo\Desktop\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\obj\Debug\Constructora.csprojAssemblyReference.cache
+C:\Users\Lotargo\Desktop\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\obj\Debug\Constructora.csproj.CoreCompileInputs.cache
+C:\Users\Lotargo\Desktop\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\obj\Debug\Constructora.exe
+C:\Users\Lotargo\Desktop\Primer Cuatrimestre (Nivel 3)\Programación III\Parte 2\Repaso 2do Parcial\Constructora\Constructora\obj\Debug\Constructora.pdb
+C:\Users\Lotargo\Desktop\C#\Constructora\Constructora\bin\Debug\Constructora.exe.config
+C:\Users\Lotargo\Desktop\C#\Constructora\Constructora\bin\Debug\Constructora.exe
+C:\Users\Lotargo\Desktop\C#\Constructora\Constructora\bin\Debug\Constructora.pdb
+C:\Users\Lotargo\Desktop\C#\Constructora\Constructora\obj\Debug\Constructora.csprojAssemblyReference.cache
+C:\Users\Lotargo\Desktop\C#\Constructora\Constructora\obj\Debug\Constructora.csproj.CoreCompileInputs.cache
+C:\Users\Lotargo\Desktop\C#\Constructora\Constructora\obj\Debug\Constructora.exe
+C:\Users\Lotargo\Desktop\C#\Constructora\Constructora\obj\Debug\Constructora.pdb
